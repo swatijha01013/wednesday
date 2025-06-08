@@ -5,5 +5,5 @@ function hey(){
     console.log("I am a new func")
 }
 function fun(){
-    console.log("I am a new func")
+    console.log("I am a new revert func")
 }
