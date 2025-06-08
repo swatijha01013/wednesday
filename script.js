@@ -1,5 +1,5 @@
-
+const name="swati"
 function myname(){
-    console.log("My Name is Swati Jha");
+    console.log(`My name is ${name}`);
 }
 const age=23;
