@@ -6,6 +6,7 @@ function hey(){
 }
 function fun(){
     console.log("I am a new revert func")
+    console.log("This is new revert func")
 }
 
 console.log("Hiii I am index.")
