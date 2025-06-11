@@ -12,3 +12,7 @@ const age=24;
  fuction  newfeat(){
     console.log("This is a new feature.");
  }
+
+ function hellojii(){
+    console.log("Hello jii how are u?");
+ }
