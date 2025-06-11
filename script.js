@@ -4,3 +4,11 @@ function myname(){
 }
 const age=24;
  const age2=age+1;
+
+ function age(){
+    console.log(age2);
+ }
+
+ fuction  newfeat(){
+    console.log("This is a new feature.");
+ }
